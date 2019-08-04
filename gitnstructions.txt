@@ -1,0 +1,17 @@
+step-1 : on github
+1. create repository
+2.copy https link from "clone or download"
+
+
+step-2: on cmd
+1.git init
+2.git add .
+3.git commit -m "comment"
+4.git remote add origin "https[step-1(2)]"
+5.git push -f origin master
+
+==================================================================================
+git clone https
+git log
+git reset --hard HEAD~1
+==================================================================================
